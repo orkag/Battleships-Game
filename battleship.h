@@ -1,12 +1,12 @@
 #include <bits/stdc++.h>
 
-class Punkt
+class Point
 {
   private:
     int x;
     int y;
   public:
-    Punkt(int=0,int=0);
+    Point(int=0,int=0);
 };
 
 class BattleShip
