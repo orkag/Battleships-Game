@@ -4,6 +4,8 @@
 //kolorki
 //rozne ai
 //statki z pliku
+//error handling
+
 
 
 #include <bits/stdc++.h>
